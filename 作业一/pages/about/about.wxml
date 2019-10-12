@@ -1,0 +1,9 @@
+<!--pages/about/about.wxml-->
+<view class="content">
+   <image class="background" src="../../images/wd.jpg" mode="aspectFill"></image>
+</view>
+<view style="padding-top:200rpx;"><text style="color:#bd5;margin-left:300rpx;">简单查询</text></view>
+<view><text style="color:#bd5;margin-left:250rpx;">2019年9月23日</text></view>
+<view style="margin-top:550rpx;">
+   <text style="color:#f45;margin-left:50rpx;font-size:50rpx;">Welcome to my introduction</text>
+</view>

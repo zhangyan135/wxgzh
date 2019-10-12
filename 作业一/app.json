@@ -1,0 +1,33 @@
+{
+   "pages": [
+      "pages/home/home",
+      "pages/index/index",
+      "pages/logs/logs",
+      "pages/about/about",
+      "pages/reqtest/reqtest",
+      "pages/sysinfo/sysinfo"
+   ],
+   "window": {
+      "backgroundTextStyle": "light",
+      "navigationBarBackgroundColor": "#eea",
+      "navigationBarTitleText": "指定字符查询",
+      "navigationBarTextStyle": "black"
+   },
+   "sitemapLocation": "sitemap.json",
+   "tabBar": {
+      "list": [
+         {
+            "pagePath": "pages/home/home",
+            "text": "HOME",
+            "iconPath": "images/study.png",
+            "selectedIconPath": "images/study.png"
+         },
+         {
+            "pagePath": "pages/about/about",
+            "text": "ABOUT",
+            "iconPath": "images/index.png",
+            "selectedIconPath": "images/index.png"
+         }
+      ]
+   }
+}

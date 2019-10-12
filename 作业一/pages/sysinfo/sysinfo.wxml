@@ -1,0 +1,9 @@
+<!--pages/sysinfo/sysinfo.wxml-->
+<text>品牌：{{brand}}</text>
+<view>型号：{{model}}</view>
+<view>系统：{{system}}</view>
+<view>微信版本：{{version}}</view>
+<view>平台：{{platform}}</view>
+<view>{{level}}%{{inCharging}}</view>
+<view>网路状态：{{coonStat}}</view>
+<view>类型：{{netType}}</view>

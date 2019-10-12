@@ -1,0 +1,9 @@
+<!--pages/reqtest/reqtest.wxml-->
+<!-- <view class="container">
+   <view wx:for="{{list}}" wx:key="key">
+      <view>
+      <rich-text nodes='{{item.data}}'></rich-text>
+      </view>
+   </view>
+</view> -->
+<text>{{list}}</text>

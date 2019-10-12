@@ -1,0 +1,15 @@
+<!--pages/home/home.wxml-->
+<view class="content">
+   <image class="background" src="../../images/zhanqiao.jpg" mode="aspectFill"></image>
+</view>
+<view class="container">
+   <form bindsubmit="startRequest">
+      <input type="text" name="userInput" placeholder="查询内容"></input>
+      <button form-type="submit">查询</button>
+   </form>
+   <text style="color:blue;">提示：promise、fetch、箭头函数等相关内容
+   </text>
+  
+   <text style="color:red;">*~ ~ ~ ~ ~ ~</text>
+
+</view>
